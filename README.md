@@ -1,2 +1,2 @@
-# webdesignart.github.io
+# webdesignart
 web designing art
